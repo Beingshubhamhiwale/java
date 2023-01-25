@@ -53,13 +53,13 @@ public void Assignm_ent(){                      //ASSIGNMENT OPERATORS DECLARTIO
  
 
 public static void main(String args[]){
-Oper_tors sellu=new Oper_tors();
-sellu.arth();
-sellu.calcIncrement();
-sellu.calcIncrement();
-sellu.Compari_on();
-sellu.Log_ic();
-sellu.Assignm_ent();
+Oper_tors shubham=new Oper_tors();
+shubham.arth();
+shubham.calcIncrement();
+shubham.calcIncrement();
+shubham.Compari_on();
+shubham.Log_ic();
+shubham.Assignm_ent();
  
 }
 }
